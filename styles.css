@@ -4,7 +4,10 @@
             border-collapse: collapse;
         }
         th, td {
-            border: 2px solid black;
+            border: 1px solid black;
+			margin:2%;
+			padding:auto;
+			overflow:hidden;
             
         }
         .black-cell {
